@@ -46,7 +46,8 @@ The Multi-Language Translator App is a Flutter-based application that allows use
    - You can copy any translated text by clicking the copy icon next to it.
 
 ## Screenshots
-*(Include screenshots of your app here)*
+![image](https://github.com/user-attachments/assets/793325bb-993c-4fbb-8b16-a0adbd6e549e)
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
