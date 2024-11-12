@@ -21,7 +21,7 @@ The Multi-Language Translator App is a Flutter-based application that allows use
 ## How to Use
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/multi_translator_app.git
+   git clone https://github.com/abirmehmed/multi_translator_app.git
    cd multi_translator_app
    ```
 
@@ -60,9 +60,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Special thanks to Google for their translation API.
 
 
-### Customization Tips:
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- Add screenshots of your app in the "Screenshots" section to give users a visual reference.
-- Modify any sections as needed based on additional features or specific instructions related to your app.
 
 
