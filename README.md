@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file for your multi-language translator app created using Flutter. You can customize it further based on your preferences.
 
-```markdown
 # Multi-Language Translator App
 
 ## Overview
@@ -60,11 +58,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Thanks to the creators of Flutter and Dart for providing an amazing framework for building cross-platform apps.
 - Special thanks to Google for their translation API.
 
-```
 
 ### Customization Tips:
 - Replace `yourusername` in the clone URL with your actual GitHub username.
 - Add screenshots of your app in the "Screenshots" section to give users a visual reference.
 - Modify any sections as needed based on additional features or specific instructions related to your app.
 
-Feel free to let me know if you need further assistance!
+
